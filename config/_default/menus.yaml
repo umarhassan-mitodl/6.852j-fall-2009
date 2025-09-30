@@ -1,0 +1,27 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: e3409e52-6b02-ba45-04df-cf6572fed6fe
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: df97dc72-d4cb-f588-e631-716074525507
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 9419cc1a-8cb6-0caa-1994-57fe90cae803
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: f492f5bb-8d3c-f429-82c3-260e683f5f34
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 40
+- identifier: 40959676-16e4-d6e0-960b-171bcb69467b
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 50
+- identifier: 0da48dce-2322-7545-e627-49a6d0a030be
+  name: Tools
+  pageRef: /pages/tools
+  weight: 60

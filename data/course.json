@@ -1,0 +1,52 @@
+{
+  "term": "Fall",
+  "year": "2009",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Algorithms and Data Structures"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Theory of Computation"
+    ]
+  ],
+  "legacy_uid": "f310032f-9d63-8cd7-4beb-41c874cb0d6c",
+  "instructors": {
+    "content": [
+      "ffa02e79-8c7d-ed25-d352-041d3158282a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "cbf5c77a-e27e-ce35-4f52-f3d12ee55431",
+    "website": "6-852j-distributed-algorithms-fall-2009"
+  },
+  "course_title": "Distributed Algorithms",
+  "hide_download": true,
+  "course_description": "Distributed algorithms are algorithms designed to run on multiple processors, without tight centralized control. In general, they are harder to design and harder to understand than single-processor sequential algorithms. Distributed algorithms are used in many practical systems, ranging from large computer networks to multiprocessor shared-memory systems. They also have a rich theory, which forms the subject matter for this course.\n\nThe core of the material will consist of basic distributed algorithms and impossibility results, as covered in Prof. Lynch's book _Distributed Algorithms_. This will be supplemented by some updated material on topics such as self-stabilization, wait-free computability, and failure detectors, and some new material on scalable shared-memory concurrent programming.\n",
+  "department_numbers": [
+    "6",
+    "18"
+  ],
+  "extra_course_numbers": "18.437J",
+  "primary_course_number": "6.852J",
+  "course_image_thumbnail": {
+    "content": "b96b4ed6-ea0a-11ff-0861-6211f1d421ab",
+    "website": "6-852j-distributed-algorithms-fall-2009"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes"
+  ],
+  "site_uid": "e9db5315-4c81-4183-8ecf-bb0d6335b00c",
+  "site_short_id": "6.852j-fall-2009",
+  "site_url_path": "courses/6-852j-distributed-algorithms-fall-2009",
+  "title": "Course Metadata"
+}
