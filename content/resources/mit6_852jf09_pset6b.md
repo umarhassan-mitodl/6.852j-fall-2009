@@ -8,8 +8,6 @@ description: "Problem set on distributed algorithms, and algorithm that shows ho
 file: /courses/6-852j-distributed-algorithms-fall-2009/644c010d4ba3bd48184221186138869e_MIT6_852JF09_pset6b.pdf
 file_size: 68301
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,8 +5,6 @@ description: User guide and reference manual for the Tempo Toolkit, a collection
 file: /courses/6-852j-distributed-algorithms-fall-2009/7e5a76b40eff76c82e414e8e96ccecdf_MIT6_852JF09_tempo_guide.pdf
 file_size: 1078973
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

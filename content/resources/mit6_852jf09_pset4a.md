@@ -5,8 +5,6 @@ description: Problem set on distributed algorithms, illogical time, asynchronous
 file: /courses/6-852j-distributed-algorithms-fall-2009/b14359088be00010be532c8827395e84_MIT6_852JF09_pset4a.pdf
 file_size: 72782
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

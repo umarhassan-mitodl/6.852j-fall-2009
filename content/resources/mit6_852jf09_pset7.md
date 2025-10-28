@@ -6,8 +6,6 @@ description: 'Problem set on distributed algorithms, simulated processes, the ap
 file: /courses/6-852j-distributed-algorithms-fall-2009/68f99db0e6d5e887dee5b2e899a0888a_MIT6_852JF09_pset7.pdf
 file_size: 83106
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

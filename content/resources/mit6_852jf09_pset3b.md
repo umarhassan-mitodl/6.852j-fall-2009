@@ -4,8 +4,6 @@ description: Problem set on distributed algorithms and the k-pseudo-session prob
 file: /courses/6-852j-distributed-algorithms-fall-2009/1744c096feb174721ef6ba666286014f_MIT6_852JF09_pset3b.pdf
 file_size: 69539
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
