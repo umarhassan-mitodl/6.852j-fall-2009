@@ -4,8 +4,6 @@ description: This section provides guidelines on using the Tempo Toolkit, a coll
   of tools to simplify the process of developing and validating Input/Output Automata
   (IOA) systems.
 draft: false
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Tools
 ocw_type: CourseSection
@@ -26,7 +24,7 @@ When specified by the problem set, you will be required to write your distribute
 
 ### Installing the Tempo Toolkit
 
-Windows, Mac, and Linux versions of the toolkit could previously be found at VeroModo. We recommend that you download the version including the Eclipse-based user interface. For this to work, you must have Java version 1.5 or better. The latest versions of Java can be downloaded [here](http://www.java.com/en/download/index.jsp).
+Windows, Mac, and Linux versions of the toolkit could previously be found at VeroModo. We recommend that you download the version including the Eclipse-based user interface. For this to work, you must have Java version 1.5 or better. The latest versions of Java can be downloaded {{% resource_link "6d7f6e48-5373-4a48-b18e-21cdb3de022e" "here" %}}.
 
 Within the install directories see `doc/Tempo_Guide.pdf` for an overview of both the TIOA formalism and the Tempo language. The same file is also available here:
 
